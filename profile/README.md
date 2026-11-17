@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://aspirin.app"><img src="https://raw.githubusercontent.com/aspirinapp/brand-assets/main/logo.svg" alt="aspirin.app" width="320"></a>
+  <a href="https://aspirin.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspirinapp/brand-assets/main/logo-on-dark.svg">
+      <img src="https://raw.githubusercontent.com/aspirinapp/brand-assets/main/logo.svg" alt="aspirin.app" width="320">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">Even aspirin isn't that simple.</h3>
